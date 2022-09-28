@@ -9,4 +9,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### DEMO
-https://vinhnguyen2001.github.io/MY-APP/
+https://tic-tac-toe-simple-hcmus.netlify.app/
